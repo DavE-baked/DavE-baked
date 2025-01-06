@@ -1,4 +1,7 @@
 ## Hi there 👋
+# My name is David Honeman. I am going to school at SNHU. I live in Oregon, and go to school online. I like to code and hang out with friends. 
+I am loioking for peoeple to code with and bounce ideas off. I like coding any any language. JavaScript is what I learned to code with. 
+
 
 <!--
 **DavE-baked/DavE-baked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
