@@ -3,6 +3,7 @@
 I am looking for peoeple to code with and bounce ideas off. I want to code any language. So anybody willing to teach me or needs a study partner. JavaScript is what I learned to code with and now moving into app.jsx so excited. Looks like a ton of typing, tons of learning-Im lost as shit acually. Function's are awesome, and wierd to start with. 
 ###Thank You. 
 ####Also I have hosting at bakedmediastudios.com -- haven't done anything with it -- thinking probably web services studio for profit idk . 
+<img src="./">
 
 
 <!--
